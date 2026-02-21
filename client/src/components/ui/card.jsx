@@ -48,3 +48,4 @@ export const CardFooter = ({ className, children, ...props }) => (
     {children}
   </div>
 );
+
